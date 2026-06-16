@@ -1,0 +1,5 @@
+requests
+pymongo
+ollama
+trafilatura
+ddgs
