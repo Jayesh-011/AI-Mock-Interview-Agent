@@ -256,7 +256,6 @@ def main():
         elif choice == "3":
             print("\nThank you for using Jayesh Patil AI Mock Interview Agent.")
             print("Keep learning, keep practicing.")
-            print("आम्ही Technical संस्कार करतो !!!")
             break
 
         # Invalid menu option
