@@ -44,7 +44,6 @@ def print_header():
     print("              Text Based Version")
     print("              Author : Jayesh Patil")
     print("              Date   : 16/06/2026")
-    print("              आम्ही Technical संस्कार करतो !!!")
     print("=" * 70)
 
 
@@ -157,7 +156,7 @@ def main():
 
     print_header()
 
-    print("\nWelcome to Marvellous SmartHire AI Mock Interview Agent.")
+    print("\nWelcome to Jayesh's SmartHire AI Mock Interview Agent.")
     print("This system conducts technical interviews using text input and LLM evaluation.")
     print("This project is designed for practical understanding of AI Agents.\n")
 
